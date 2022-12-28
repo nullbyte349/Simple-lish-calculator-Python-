@@ -1,4 +1,3 @@
-```
 def switch(choice, num1, num2):
     if choice == 1:
         result = num1 + num2;
@@ -33,4 +32,3 @@ choice = input("Option: ");
 num1 =  input("Number1: ");
 num2 = input("Number2: ");
 switch(int(choice), int(num1), int(num2));
-```
