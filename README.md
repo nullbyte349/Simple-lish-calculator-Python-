@@ -1,1 +1,1 @@
-# Custom switch statement > match case
+## Custom switch function > match case
